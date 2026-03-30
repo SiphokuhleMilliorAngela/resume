@@ -1,6 +1,6 @@
 <h1 align="center">Siphokuhle Nyana</h1>
 <p align="center">
-<img width="200" height="200"  src="https://siphokuhlenyana.github.io/ImagesPortfolio/siphokuhle.jpg"  style="border-radius: 50% "/>
+<img width="200" height="200"  src="https://siphokuhlenyana.github.io/ImagesPortfolio/siphokuhle.jpg"  style="border-radius: 50%; "/>
 </p>
 <p align="center">
   <a href="mailto:218123191@mycput.ac.za">📧 218123191@mycput.ac.za</a> •
