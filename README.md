@@ -41,9 +41,9 @@ Adaptable professional who thrives in both team and independent work with a shar
 
 ## 🎓 Education
 
-### CPUT - Diploma in ICT  
+### CPUT - Diploma in ICT : Applications Development
 📅 Current
-### Life Choices Academy — 
+### Life Choices Academy 
 📅2024
 
 ### CPUT — Higher Certificate in ICT
