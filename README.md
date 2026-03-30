@@ -1,5 +1,5 @@
 <h1 align="center">Siphokuhle Nyana</h1>
-<img width="500" height="500"  src="[https://github.com/user-attachments/assets/f429870e-ca86-4d26-a85c-17f6907ad71b](https://siphokuhlenyana.github.io/ImagesPortfolio/siphokuhle.jpg)" />
+<img width="200" height="200"  src="https://siphokuhlenyana.github.io/ImagesPortfolio/siphokuhle.jpg" />
 <p align="center">
   <a href="mailto:218123191@mycput.ac.za">📧 218123191@mycput.ac.za</a> •
   <a href="tel:0832432798">📱 083 243 2798</a> •
