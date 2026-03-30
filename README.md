@@ -23,7 +23,7 @@ Adaptable professional who thrives in both team and independent work with a shar
 |---|---|
 | **Frontend** | HTML & CSS, JavaScript, React JS, Vue JS |
 | **Backend** | Node JS,Express , Java |
-| **Scripting** | Python  |
+| **Scripting** | Python ,MySQL  |
 | **Methodology** | Agile SCRUM |
 | **Soft Skills** | Ability to meet deadlines & High attention to detail |
 
