@@ -41,8 +41,10 @@ Adaptable professional who thrives in both team and independent work with a shar
 
 ## 🎓 Education
 
-### Life Choices Academy — *Lansdowne, Cape Town*
-📅 April 2024 – September 2024
+### CPUT - Diploma in ICT  
+📅 Current
+### Life Choices Academy — 
+📅2024
 
 ### CPUT — Higher Certificate in ICT
 📅 2018
