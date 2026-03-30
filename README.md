@@ -3,7 +3,7 @@
 <img width="200" height="200"  src="https://siphokuhlenyana.github.io/ImagesPortfolio/siphokuhle.jpg"  style="border-radius: 15px; "/>
 </p>
 <p align="center">
-  <a href="mailto:218123191@mycput.ac.za">218123191@mycput.ac.za</a> •
+  <a href="mailto:218123191@mycput.ac.za"> 📧218123191@mycput.ac.za</a> •
   <a href="tel:0832432798">📱 083 243 2798</a> •
   <a href="https://www.linkedin.com/in/siphokuhlenyana-6a917016a/">💼 LinkedIn</a> •
   <a href="https://siphokuhlemilliornyana.netlify.app/">🌐 Portfolio</a>
